@@ -31,7 +31,8 @@ color:
   # secondary-dark: 233140 #A2122F
 
   primary: 2F3437
-  primary-rgb: "128,179,255"
+  # primary-rgb: "128,179,255"
+  primary-rgb: "196,198,203"
   secondary: D0A937
   secondary-dark: 59563B
 

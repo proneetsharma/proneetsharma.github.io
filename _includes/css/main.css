@@ -482,3 +482,33 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+
+.style_skillsContainer__30N4T {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  
+  .Home_skills__11BTZ {
+    margin-top: 5vh;
+    margin-bottom: 10vh;
+  }
+  
+  .style_skillsContainer__30N4T li {
+    display: block;
+    margin: auto;
+    padding: 8px 10px;
+  }
+  
+  .style_skillsContainer__30N4T li div {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 200px;
+  }
+  .style_skillsContainer__30N4T li div p {
+    padding-left: 16px;
+    font-size: 20px;
+    color: #333;
+  }
