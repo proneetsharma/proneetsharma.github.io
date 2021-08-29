@@ -1,6 +1,8 @@
 ---
 layout: default
 modal-id: 8
+project: Torque Controlled Robotic Arm
+link: https://github.com/proneetsharma/rpg_youbot_torque_control
 date: 2014-07-11
 img: gesture_control.png
 alt: image-alt

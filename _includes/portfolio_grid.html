@@ -17,7 +17,12 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
+                            <!-- <a target="_blank" href="{{ post.link }}"> -->
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                            <!-- </a> -->
+                        <div class="col-lg-12 text-center project-text-color">
+                            <p>{{ post.project }}</p>
+                        </div>
                         </a>
                     </div>
                 {% endfor %}
