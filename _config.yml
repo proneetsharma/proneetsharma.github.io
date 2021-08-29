@@ -1,6 +1,6 @@
 # Site settings
 title: Proneet Sharma
-email: sproneet@gmail.com
+email: proneetsharma@outlook.com
 # url: https://github.com/jeromelachaud/freelancer-theme
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
@@ -42,7 +42,7 @@ footer:
   copyright: Dr. Henry Jekyll
   location: Location
   social: Around the Web
-  credits: Credits
+  credits: Contact
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -60,7 +60,7 @@ address:
   - line: Bonn, Germany
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'proneetsharma@outlook.com'
 
 # Build settings
 markdown: kramdown
