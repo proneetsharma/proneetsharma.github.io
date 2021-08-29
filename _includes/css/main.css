@@ -498,7 +498,7 @@ footer .footer-below {
   .style_skillsContainer__30N4T li {
     display: block;
     margin: auto;
-    padding: 8px 10px;
+    padding: 20px 10px;
   }
   
   .style_skillsContainer__30N4T li div {
@@ -511,4 +511,12 @@ footer .footer-below {
     padding-left: 16px;
     font-size: 20px;
     color: #ffffff;
+  }
+
+  .skills-container {
+    width: 83%;
+  }
+
+  .career-container{
+      width: 85%;
   }
