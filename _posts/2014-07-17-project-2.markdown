@@ -4,6 +4,7 @@ modal-id: 2
 project: Face Recognition Library using Eigenfaces
 date: 2014-07-17
 img: eigen_faces.png
+link: https://github.com/oarriaga/paz/tree/master/examples/eigenfaces
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

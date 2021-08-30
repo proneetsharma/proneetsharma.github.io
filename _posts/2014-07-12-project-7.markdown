@@ -3,7 +3,8 @@ layout: default
 modal-id: 7
 project: WhereAmI
 date: 2014-07-12
-img: WhereAmI.png
+# img: WhereAmI.png
+img: WhereAmI.gif
 alt: image-alt
 link: https://github.com/proneetsharma/WhereAmI
 project-date: April 2014

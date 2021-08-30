@@ -4,7 +4,8 @@ modal-id: 8
 project: Torque Controlled Robotic Arm
 link: https://github.com/proneetsharma/rpg_youbot_torque_control
 date: 2014-07-11
-img: gesture_control.png
+# img: gesture_control.png
+img: gesture_control.gif
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

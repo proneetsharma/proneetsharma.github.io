@@ -3,7 +3,8 @@ layout: default
 modal-id: 6
 project: Advance Lane Finding
 date: 2014-07-15
-img: advance_lane.png
+# img: advance_lane.png
+img: advance_lane.gif
 alt: image-alt
 link: https://github.com/proneetsharma/Advanced-Lane-Finding
 project-date: April 2014

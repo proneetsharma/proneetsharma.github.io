@@ -3,7 +3,8 @@ layout: default
 modal-id: 5
 project: Finding Car Lane Lines
 date: 2014-07-14
-img: laneLines.jpg
+# img: laneLines.jpg
+img: laneLines.gif
 alt: image-alt
 link: https://github.com/proneetsharma/Finding-Car-Lane-Lines
 project-date: April 2014

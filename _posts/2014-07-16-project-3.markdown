@@ -3,7 +3,8 @@ layout: default
 modal-id: 3
 project: Placing an Object Using Point Cloud
 date: 2014-07-16
-img: point_cloud.png
+# img: point_cloud.png
+img: point_cloud.gif
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
