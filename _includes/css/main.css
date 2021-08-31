@@ -260,6 +260,8 @@ section.not-success {
 /* Flexbox Portfolio Grid */
 @media (min-width: 640px) {
     .portfolio-flex-grid .portfolio-flex-row {
+      margin-top: 5vh;
+      margin-bottom: -2vh;
       display: flex;
       flex-flow: row wrap;
       align-items: stretch;
@@ -497,7 +499,7 @@ footer .footer-below {
   
   .Home_skills__11BTZ {
     margin-top: 5vh;
-    margin-bottom: 10vh;
+    margin-bottom: -2vh;
   }
   
   .style_skillsContainer__30N4T li {
@@ -527,6 +529,7 @@ footer .footer-below {
   }
 
   .project-text-color{
+    margin-top: 10px;
       color: #d4d4d4;
        }
       
