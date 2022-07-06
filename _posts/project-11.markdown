@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 8
+project: Torque Controlled Robotic Arm
+link: https://github.com/proneetsharma/rpg_youbot_torque_control
+date: 2014-07-11
+# img: gesture_control.png
+img: gesture_control.gif
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+---
