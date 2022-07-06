@@ -1,0 +1,6 @@
+---
+layout: default
+project: Human pose estimation
+link: https://github.com/oarriaga/paz/tree/master/examples/human_pose_estimation_2D
+img: human_pose.gif
+---

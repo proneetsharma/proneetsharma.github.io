@@ -1,5 +1,6 @@
 # Site settings
-title: Proneet Sharma
+title: Hi &#128075; I'm Proneet
+# title: Hi, I'm Proneet
 email: sproneet@gmail.com
 # url: https://github.com/jeromelachaud/freelancer-theme
 description: "Proneet Sharma Portfolio"
@@ -33,9 +34,15 @@ color:
   primary: 2F3437
   other-primary: 101010
   # primary-rgb: "128,179,255"
-  primary-rgb: "196,198,203"
+  # primary-rgb: "196,198,203"
   secondary: D0A937
   secondary-dark: 59563B
+
+
+  # primary: 2F3437
+  # other-primary: 101010
+  # secondary: 254E58
+  # secondary-dark: 112D32
 
 
 # Footer settings
@@ -61,7 +68,7 @@ address:
   - line: Bonn, Germany
 
 # Credits content
-credits: 'proneetsharma@outlook.com'
+credits: 'sproneet@gmail.com'
 
 # Build settings
 markdown: kramdown

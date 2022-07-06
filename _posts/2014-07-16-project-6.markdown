@@ -1,0 +1,5 @@
+---
+layout: default
+project: Placing an Object Using Point Cloud
+img: point_cloud.gif
+---

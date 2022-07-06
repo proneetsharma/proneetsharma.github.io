@@ -1,0 +1,6 @@
+---
+layout: default
+project: Finding Car Lane Lines
+img: laneLines.gif
+link: https://github.com/proneetsharma/Finding-Car-Lane-Lines
+---

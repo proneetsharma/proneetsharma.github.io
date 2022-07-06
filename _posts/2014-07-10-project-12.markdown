@@ -1,0 +1,6 @@
+---
+layout: default
+project: Gesture Controled Robotic Arm
+link: https://www.youtube.com/watch?v=PXDYwstpejU&ab_channel=ShivangTripathi
+img: copybot.gif
+---

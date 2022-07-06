@@ -1,0 +1,6 @@
+---
+layout: default
+project: Uncertainty Estimation in Time Series Classification
+img: time_series_uncertainty.png
+# link: https://gregarious-dietician-c8d.notion.site/pose-Estimation-87f77c16ee674f99a688d5bf89fed381
+---
