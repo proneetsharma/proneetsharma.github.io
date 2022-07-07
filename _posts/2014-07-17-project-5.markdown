@@ -1,6 +1,6 @@
 ---
 layout: default
-project: Face Recognition Library using Eigenfaces
+project: Face recognition library using eigenfaces
 img: eigen_faces.png
 link: https://github.com/oarriaga/paz/tree/master/examples/eigenfaces
 ---

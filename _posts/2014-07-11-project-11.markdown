@@ -1,6 +1,6 @@
 ---
 layout: default
-project: Torque Controlled Robotic Arm
+project: Torque controlled robotic arm
 link: https://github.com/proneetsharma/rpg_youbot_torque_control
 img: gesture_control.gif
 ---

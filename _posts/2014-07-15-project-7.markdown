@@ -1,6 +1,6 @@
 ---
 layout: default
-project: Tube Navigation
+project: Tube navigation
 link: https://github.com/proneetsharma/tube_driving
 img: tube_navigation.gif
 ---

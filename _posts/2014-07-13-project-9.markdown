@@ -1,6 +1,6 @@
 ---
 layout: default
-project: Advance Lane Finding
+project: Advance lane finding
 img: advance_lane.gif
 link: https://github.com/proneetsharma/Advanced-Lane-Finding
 ---
