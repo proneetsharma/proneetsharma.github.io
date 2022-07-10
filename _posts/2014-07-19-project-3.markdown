@@ -1,6 +1,6 @@
 ---
 layout: default
-project: Hand closeure detection
+project: Hand closure detection
 link: https://github.com/oarriaga/paz/tree/master/examples/minimal_hand/is_open_demo.py
 img: hand_closure_detection.gif
 ---
